@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/maskedhypocrite/portfolio-demo.git/static/css/main.a659989c.css",
-    "main.js": "/maskedhypocrite/portfolio-demo.git/static/js/main.9af5149b.js",
-    "static/js/787.7d4caaf7.chunk.js": "/maskedhypocrite/portfolio-demo.git/static/js/787.7d4caaf7.chunk.js",
-    "static/media/engineering.jpg": "/maskedhypocrite/portfolio-demo.git/static/media/engineering.cab1a03a308e922652c8.jpg",
-    "static/media/tick.png": "/maskedhypocrite/portfolio-demo.git/static/media/tick.63f39a804ca3da78a456.png",
-    "index.html": "/maskedhypocrite/portfolio-demo.git/index.html",
-    "main.a659989c.css.map": "/maskedhypocrite/portfolio-demo.git/static/css/main.a659989c.css.map",
-    "main.9af5149b.js.map": "/maskedhypocrite/portfolio-demo.git/static/js/main.9af5149b.js.map",
-    "787.7d4caaf7.chunk.js.map": "/maskedhypocrite/portfolio-demo.git/static/js/787.7d4caaf7.chunk.js.map"
+    "main.css": "/portfolio-demo/static/css/main.a659989c.css",
+    "main.js": "/portfolio-demo/static/js/main.e135b134.js",
+    "static/js/787.7d4caaf7.chunk.js": "/portfolio-demo/static/js/787.7d4caaf7.chunk.js",
+    "static/media/engineering.jpg": "/portfolio-demo/static/media/engineering.cab1a03a308e922652c8.jpg",
+    "static/media/tick.png": "/portfolio-demo/static/media/tick.63f39a804ca3da78a456.png",
+    "index.html": "/portfolio-demo/index.html",
+    "main.a659989c.css.map": "/portfolio-demo/static/css/main.a659989c.css.map",
+    "main.e135b134.js.map": "/portfolio-demo/static/js/main.e135b134.js.map",
+    "787.7d4caaf7.chunk.js.map": "/portfolio-demo/static/js/787.7d4caaf7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a659989c.css",
-    "static/js/main.9af5149b.js"
+    "static/js/main.e135b134.js"
   ]
 }
